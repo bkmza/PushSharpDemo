@@ -1,0 +1,17 @@
+C:\Users\ilyausikov\source\repos\PushSharpDemo\PushSharpDemo\bin\Debug\PushSharpDemo.exe.config
+C:\Users\ilyausikov\source\repos\PushSharpDemo\PushSharpDemo\bin\Debug\PushSharpDemo.exe
+C:\Users\ilyausikov\source\repos\PushSharpDemo\PushSharpDemo\bin\Debug\PushSharpDemo.pdb
+C:\Users\ilyausikov\source\repos\PushSharpDemo\PushSharpDemo\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ilyausikov\source\repos\PushSharpDemo\PushSharpDemo\bin\Debug\PushSharp.Amazon.dll
+C:\Users\ilyausikov\source\repos\PushSharpDemo\PushSharpDemo\bin\Debug\PushSharp.Apple.dll
+C:\Users\ilyausikov\source\repos\PushSharpDemo\PushSharpDemo\bin\Debug\PushSharp.Blackberry.dll
+C:\Users\ilyausikov\source\repos\PushSharpDemo\PushSharpDemo\bin\Debug\PushSharp.Core.dll
+C:\Users\ilyausikov\source\repos\PushSharpDemo\PushSharpDemo\bin\Debug\PushSharp.Firefox.dll
+C:\Users\ilyausikov\source\repos\PushSharpDemo\PushSharpDemo\bin\Debug\PushSharp.Google.dll
+C:\Users\ilyausikov\source\repos\PushSharpDemo\PushSharpDemo\bin\Debug\PushSharp.Windows.dll
+C:\Users\ilyausikov\source\repos\PushSharpDemo\PushSharpDemo\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ilyausikov\source\repos\PushSharpDemo\PushSharpDemo\obj\Debug\PushSharpDemo.csprojAssemblyReference.cache
+C:\Users\ilyausikov\source\repos\PushSharpDemo\PushSharpDemo\obj\Debug\PushSharpDemo.csproj.CoreCompileInputs.cache
+C:\Users\ilyausikov\source\repos\PushSharpDemo\PushSharpDemo\obj\Debug\PushSharpDemo.csproj.CopyComplete
+C:\Users\ilyausikov\source\repos\PushSharpDemo\PushSharpDemo\obj\Debug\PushSharpDemo.exe
+C:\Users\ilyausikov\source\repos\PushSharpDemo\PushSharpDemo\obj\Debug\PushSharpDemo.pdb
